@@ -1,4 +1,4 @@
-print("hello")
+print("hello", 22)
 s= 22
-print(s)
+print(s1)
 
