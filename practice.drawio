@@ -1,29 +1,29 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.3.0">
   <diagram name="Страница — 1" id="xMvcdneXC5tVdmZUXLHF">
-    <mxGraphModel dx="1296" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="x9sWHnb6RHN4VdWu7u9j-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x9sWHnb6RHN4VdWu7u9j-1" target="x9sWHnb6RHN4VdWu7u9j-6">
+        <mxCell id="x9sWHnb6RHN4VdWu7u9j-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="x9sWHnb6RHN4VdWu7u9j-1" target="x9sWHnb6RHN4VdWu7u9j-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x9sWHnb6RHN4VdWu7u9j-1" value="&lt;b&gt;CHAT&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;chat_id = uuid&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;USER_1&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;USER_2&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;created_at&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;updated_at&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fillColor=light-dark(#008A00,#FFFFFF);strokeColor=#005700;fontColor=#ffffff;align=center;" vertex="1" parent="1">
-          <mxGeometry x="236" y="70" width="131" height="131" as="geometry" />
+        <mxCell id="x9sWHnb6RHN4VdWu7u9j-1" value="&lt;b&gt;CHAT&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;chat_id = uuid&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;users = [user1, user2]&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;created_at&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;updated_at&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fillColor=light-dark(#008A00,#FFFFFF);strokeColor=#005700;fontColor=#ffffff;align=center;" parent="1" vertex="1">
+          <mxGeometry x="210" y="70" width="131" height="131" as="geometry" />
         </mxCell>
-        <mxCell id="x9sWHnb6RHN4VdWu7u9j-4" value="ban user&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;user_id&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;created_at&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;status&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;till_date&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="116" y="390" width="120" height="120" as="geometry" />
+        <mxCell id="x9sWHnb6RHN4VdWu7u9j-4" value="&lt;div&gt;user ban&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;user_id&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;created_at&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;ban_id&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="215.5" y="370" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="x9sWHnb6RHN4VdWu7u9j-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x9sWHnb6RHN4VdWu7u9j-5" target="x9sWHnb6RHN4VdWu7u9j-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="x9sWHnb6RHN4VdWu7u9j-5" value="AI&lt;div&gt;ai&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="317.5" y="350" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="x9sWHnb6RHN4VdWu7u9j-6" value="&lt;b&gt;message&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;chat_id&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;sender_id&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;text&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;created_at&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;is_read&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=light-dark(#008A00,#FFFFFF);strokeColor=#005700;fontColor=#ffffff;shadow=0;" vertex="1" parent="1">
+        <mxCell id="x9sWHnb6RHN4VdWu7u9j-6" value="&lt;b&gt;message&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;chat_id&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;sender_id&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;text&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;created_at&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;is_read&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=light-dark(#008A00,#FFFFFF);strokeColor=#005700;fontColor=#ffffff;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="65.5" width="110" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="x9sWHnb6RHN4VdWu7u9j-8" value="ai_config&lt;div&gt;ai_id&lt;/div&gt;&lt;div&gt;text&lt;/div&gt;&lt;div&gt;status&lt;/div&gt;&lt;div&gt;created_at&lt;/div&gt;&lt;div&gt;updated_at&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="460" width="105" height="95" as="geometry" />
+        <mxCell id="x9sWHnb6RHN4VdWu7u9j-8" value="ai_config&lt;div&gt;ai_id&lt;/div&gt;&lt;div&gt;text&lt;/div&gt;&lt;div&gt;status&lt;/div&gt;&lt;div&gt;created_at&lt;/div&gt;&lt;div&gt;updated_at&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="455" y="250" width="105" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="0I4VSFeD1xXbjtpJ5jz3-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0I4VSFeD1xXbjtpJ5jz3-1" target="x9sWHnb6RHN4VdWu7u9j-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0I4VSFeD1xXbjtpJ5jz3-1" value="BAN&lt;br&gt;&lt;br&gt;&lt;div&gt;title&amp;nbsp;&lt;/div&gt;&lt;div&gt;days_of_ban&lt;/div&gt;&lt;div&gt;status&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="215.5" y="230" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
